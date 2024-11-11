@@ -1,0 +1,5 @@
+Program Started Successfully
+x traslate = 0.000000
+y traslate = 0.000000
+z traslate = 0.000000
+Prgram Ended Successfully...

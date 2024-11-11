@@ -1,0 +1,4 @@
+Log file is created successfully24 matching FBConfigs foundsthe choosen visual id is = 0x1640
+coreprofile glxContext obtain successfully
+supporting direct rendering
+Program Ended Successfully...

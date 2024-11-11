@@ -1,0 +1,7 @@
+#include <windows.h>
+
+#include "OGL.h"
+
+MYICON ICON MyIcon.ico
+
+MY_KUNDALI_BITMAP BITMAP Vijay_Kundali.bmp
